@@ -13,9 +13,9 @@ A passionate developer interested in building cool projects and contributing to 
 ### 🚀 Skills
 
 - Programming Languages:  
-  - Python, JavaScript, TypeScript, Java, C++
+  - Python, JavaScript, TypeScript e Swift
 - Frameworks & Tools:  
-  - React, Node.js, Express,Git
+  - React, Express,Git
 
 ---
 
@@ -32,5 +32,6 @@ A passionate developer interested in building cool projects and contributing to 
 - LinkedIn: www.linkedin.com/in/lorran-ney-6a6a16181
 
 ---
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ney332&style=flat-square)
